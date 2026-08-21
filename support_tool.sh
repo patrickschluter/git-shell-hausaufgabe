@@ -32,3 +32,6 @@ case $auswahl in
     echo "Ungültige Auswahl."
     ;;
 esac
+
+echo ""
+read -p "Zum Beenden Enter drücken..."
